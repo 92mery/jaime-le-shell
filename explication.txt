@@ -1,0 +1,15 @@
+Exercice 1 :
+mkdir jaime-le-shell
+cd j'aime-le-shell
+mkdir test1 test5
+touch test2 test3 test4 test6
+
+Exercice 2 :
+mkdir le_shell_cest_trop_cool!
+
+Exercice 3 :
+mv test1 le_shell_cest_trop_cool!
+mv test5 le_shell_cest_trop_cool!
+
+cp -R test2 le_shell_cest_trop_cool!
+cp -R test6 le_shell_cest_trop_cool!
